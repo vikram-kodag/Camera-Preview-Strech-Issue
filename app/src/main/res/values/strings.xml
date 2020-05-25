@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CameraPreviewExample</string>
+    <string name="camera_permission_error">Please Enable Camera Permission </string>
+    <string name="storage_permission_error">Please Enable External Storage Read Write Permission </string>
+    <string name="full_screen">Full Screen </string>
+    <string name="dynamic_size">Dynamic Size </string>
 </resources>
